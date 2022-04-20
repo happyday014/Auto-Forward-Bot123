@@ -1,5 +1,3 @@
-## CHANNEL AUTO FORWARD
-This repo is the clone of [CHANNEL AUTOMATIC NS BOT](https://telegram.dog/Autoforward_Nsbot)
 
 **NOTE:** There is more difference between my bot and this repo. But the purposes is same
 
@@ -52,8 +50,3 @@ about - to know about me
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Ns-AnoNymouS&theme=blue-green)
 [![Anonymous's github stats](https://github-readme-stats.vercel.app/api?username=Ns-AnoNymouS&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Thanks and credits
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
-- [Dan](https://telegram.dog/haskell) for his pyrogram docs
-- [MaheshMalekar](https://telegram.dog/MaheshMalekar) ❤
